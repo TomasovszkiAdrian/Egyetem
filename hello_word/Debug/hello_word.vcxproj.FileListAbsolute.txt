@@ -1,0 +1,2 @@
+C:\progi\hello_word\Debug\hello_word.exe
+C:\progi\hello_word\Debug\hello_word.pdb
