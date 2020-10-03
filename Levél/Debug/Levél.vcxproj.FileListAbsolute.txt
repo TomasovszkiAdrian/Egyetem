@@ -1,0 +1,2 @@
+C:\progi\Levél\Debug\Levél.exe
+C:\progi\Levél\Debug\Levél.pdb
