@@ -1,0 +1,9 @@
+﻿  drill5.cpp
+C:\progi\drill5\drill5.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\progi\drill5\drill5.cpp(58,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\progi\drill5\drill5.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\progi\drill5\drill5.cpp(67,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\progi\drill5\drill5.cpp(73,2): error C3861: 'sort': identifier not found
+C:\progi\drill5\drill5.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\progi\drill5\drill5.cpp(80,50): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\progi\drill5\drill5.cpp(81,50): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
